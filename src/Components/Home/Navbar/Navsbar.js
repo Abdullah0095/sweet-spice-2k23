@@ -47,7 +47,7 @@ const Navsbar = () => {
               <Nav.Link href="#pricing">Testimonial</Nav.Link>
             </Nav>
             <Nav>
-              <Nav.Link href="#deets">CART</Nav.Link>
+              <Nav.Link href="#cart">CART</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
